@@ -1,1 +1,1 @@
-# klikkauspeli
+# klikkauspeli.
